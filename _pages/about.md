@@ -1,34 +1,37 @@
 ---
 layout: about
-title: about
+title: Ada aywang
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
-
-profile:
-  align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
-
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
-
+subtitle: DPhil candidate in sociology, University of Oxford
+selected_papers: false
+social: false
 announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
-
+  enabled: false
 latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  enabled: false
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Ada aywang is a boring sociologist who is constantly trying to figure out things she doesn’t know. “a.” stands for *ambiguous*, as the surname Wang is ambiguous for many, representing over 7% of the Chinese population. It also includes different Chinese surnames, 王 Wáng and 汪 Wāng. Ada learned that in Cantonese, 王 Wáng is spelled as Wong, the same as 黄 Huáng. Nine out of ten times, people call her Ms. (or Mr.) Wan instead of Wang.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+By the way, *wān* 弯 means “not straight” in Mandarin.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+When Chinese characters are spelled in English, they also become ambiguous for Ada, as she has difficulties recognizing the meanings of them. While using an English name, certain things become clear, and certain become vague.
+
+Ada is a DPhil (a fancy or weird way to say PhD) candidate in sociology at the University of Oxford. Her research focuses on collective action, gender and sexuality, and China. She has a very wide range of interests, so chances are high if she finds you interesting (not being polite).
+
+She does creative writing when she is particularly bored, or facing existential crises. Frequency? Make a guess.
+
+Friends call her 鱼/余 Yu 🐟, literally “fish.” Perhaps punk fish. Call her Yu if you insist on learning Chinese names. It’s not pronounced as “You” (yes, you, who’s reading this). You may mean “swim” in Mandarin.
+
+She can’t swim. Don’t be offensive.
+
+**Contact:** [ada.wang.yq@proton.me](mailto:ada.wang.yq@proton.me) — just to say hi, or share memes you like. Contact someone else if you wanna learn Chinese.
+
+## Address
+
+42 Park End St  
+Oxford OX1 1JD
+
+## Reference
+
+E’s Chinese class. (2020, December 31). *How to Pronounce/Say/Write: 鱼/魚/(fish) Chinese Vocabulary/Character/Radical* [Video]. YouTube. [https://www.youtube.com/watch?v=7jRhPaDeslA](https://www.youtube.com/watch?v=7jRhPaDeslA)
