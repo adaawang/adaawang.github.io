@@ -2,7 +2,7 @@
 layout: about
 title: Ada aywang
 permalink: /
-subtitle: DPhil candidate in sociology, University of Oxford
+subtitle: A hopefully and helplessly final-year PhD candidate in sociology, University of Oxford
 selected_papers: false
 social: false
 announcements:
@@ -11,7 +11,11 @@ latest_posts:
   enabled: false
 ---
 
-<div style="line-height: 1.5;">
+<figure style="max-width: 620px; margin: 0 auto 25px;">
+  <img src="https://adaawang.wordpress.com/wp-content/uploads/2026/04/img_7980-2.jpg?w=1024" alt="Ada aywang" style="display: block; width: 100%; height: auto;">
+</figure>
+
+<div style="line-height: 1.62;">
 
 Ada aywang is a boring sociologist who is constantly trying to figure out things she doesn’t know. “a.” stands for *ambiguous*, as the surname Wang is ambiguous for many, representing over 7% of the Chinese population. It also includes different Chinese surnames, 王 Wáng and 汪 Wāng. Ada learned that in Cantonese, 王 Wáng is spelled as Wong, the same as 黄 Huáng. Nine out of ten times, people call her Ms. (or Mr.) Wan instead of Wang.
 
