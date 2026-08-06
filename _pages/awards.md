@@ -34,7 +34,7 @@ nav_order: 7
 
 <strong>Backstage 1:</strong> Two of my best mates in the cohort helped me proofread my awkward English back then, on a thesis about China. I ended up sharing the prize with one of them - so glad they don’t need to regret being my friend!
 
-<strong>Backstage 2:</strong> For various reasons, the thesis hasn’t been published yet :’
+<strong>Backstage 2:</strong> For various reasons, the thesis hasn’t been published yet :’|
 
 
 <span style="color: purple; font-style: italic;">@Queer art of failure</span>
