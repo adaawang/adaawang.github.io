@@ -6,17 +6,17 @@ nav: true
 nav_order: 7
 ---
 
-<p style="color: purple; font-size: 1.1rem;"><strong>2026 Chinese Student Award, Great Britain China Educational Trust</strong></p>
+<p style="color: purple; font-size: 1.1rem; margin-bottom: 0.75rem;"><strong>2026 Chinese Student Award, Great Britain China Educational Trust</strong></p>
 
 Backstage: Failed at the first attempt. Wasn’t sure why the second attempt was acceptable.
 
 
-<p style="color: purple; font-size: 1.1rem;"><strong>2025 Foundation Grant, Funds for Women Graduates</strong></p>
+<p style="color: purple; font-size: 1.1rem; margin-top: 2.25rem; margin-bottom: 0.75rem;"><strong>2025 Foundation Grant, Funds for Women Graduates</strong></p>
 
 Backstage: Searched for hours for any scholarship information. Failed the other three PhD grant applications.
 
 
-<p style="color: purple; font-size: 1.1rem;"><strong>2021 Clarendon Scholar, Clarendon Fund</strong></p>
+<p style="color: purple; font-size: 1.1rem; margin-top: 2.25rem; margin-bottom: 0.75rem;"><strong>2021 Clarendon Scholar, Clarendon Fund</strong></p>
 
 Frontstage: Prestigious fully-funded scholarship
 
@@ -25,7 +25,7 @@ Backstage 1: Thanks to the bro who took the Gates Scholarship and saved me out o
 Backstage 2: The ‘full scholarship’ was three years only, guess which year I’m in now ;)
 
 
-<p style="color: purple; font-size: 1.1rem;"><strong>2020-2021 Ko Cheuk-hung Prize</strong></p>
+<p style="color: purple; font-size: 1.1rem; margin-top: 2.25rem; margin-bottom: 0.75rem;"><strong>2020-2021 Ko Cheuk-hung Prize</strong></p>
 
 Frontstage: Best Thesis in MSc in Contemporary Chinese Studies, Oxford
 
