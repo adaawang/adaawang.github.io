@@ -2,8 +2,9 @@
 layout: page
 permalink: /articles/
 title: Stories
+nav_title: stories
 nav: true
-nav_order: 2
+nav_order: 5
 ---
 
 My first English short story, *An Uncomfortable Dictionary*, was shortlisted for the Oxford-BNU Creative Writing Award. The story is about a series of discomforts related to race, gender, ‘conditions,’ nonconformity, and many others, individually and collectively.
@@ -12,4 +13,4 @@ My first English short story, *An Uncomfortable Dictionary*, was shortlisted for
 
 Last time I got any literary award was in Grade 4?
 
-My original persona (a black cat, a nothing-special, sometimes quite failure voice) embarrassed my college, so they really tried hard to hide me behind other people’s glories photo, and boring books and texts (a long story).
+My original persona (a black cat, a nothing-special, sometimes quite failure voice) embarrassed some communication team, so they really tried hard to hide me behind other people’s glories photo, and boring books and texts - a long story, with a bitter smile :’)
