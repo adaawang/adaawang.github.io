@@ -6,4 +6,6 @@ nav: true
 nav_order: 6
 ---
 
-<a href="https://adaawang.wordpress.com/boring-stuff/" style="color: purple;">personal website</a>
+
+<a href="https://adaawang.wordpress.com/boring-stuff/" style="color: purple;">Personal Website</a>
+
