@@ -11,6 +11,8 @@ latest_posts:
   enabled: false
 ---
 
+<div style="line-height: 1.5;">
+
 Ada aywang is a boring sociologist who is constantly trying to figure out things she doesn’t know. “a.” stands for *ambiguous*, as the surname Wang is ambiguous for many, representing over 7% of the Chinese population. It also includes different Chinese surnames, 王 Wáng and 汪 Wāng. Ada learned that in Cantonese, 王 Wáng is spelled as Wong, the same as 黄 Huáng. Nine out of ten times, people call her Ms. (or Mr.) Wan instead of Wang.
 
 By the way, *wān* 弯 means “not straight” in Mandarin.
@@ -26,6 +28,8 @@ Friends call her 鱼/余 Yu 🐟, literally “fish.” Perhaps punk fish. Call 
 She can’t swim. Don’t be offensive.
 
 **Contact:** [ada.wang.yq@proton.me](mailto:ada.wang.yq@proton.me) — just to say hi, or share memes you like. Contact someone else if you wanna learn Chinese.
+
+</div>
 
 ## Address
 
