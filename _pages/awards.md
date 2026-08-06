@@ -49,6 +49,6 @@ nav_order: 7
 <strong>Backstage 2:</strong> For various reasons, the thesis hasn’t been published yet :’(
 
 
-<em style="color: var(--global-text-color) !important;">@Queer art of failure</em>
+<em style="background: linear-gradient(90deg, #e53935, #fb8c00, #fbc02d, #43a047, #1e88e5, #8e24aa, #d81b60, #00acc1, #5bcefa, #f5a9b8, #ffffff, #f5a9b8, #5bcefa); -webkit-background-clip: text; background-clip: text; color: transparent !important;">@Queer art of failure</em>
 
-<em style="color: var(--global-text-color) !important;">@Delinkedinization</em>
+<em style="background: linear-gradient(90deg, #e53935, #fb8c00, #fbc02d, #43a047, #1e88e5, #8e24aa, #d81b60, #00acc1, #5bcefa, #f5a9b8, #ffffff, #f5a9b8, #5bcefa); -webkit-background-clip: text; background-clip: text; color: transparent !important;">@Delinkedinization</em>
