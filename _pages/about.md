@@ -11,6 +11,8 @@ latest_posts:
   enabled: false
 ---
 
+<div style="line-height: 1.8;">
+
 Ada aywang is a boring sociologist who is constantly trying to figure out things she doesn’t know. “a.” stands for *ambiguous*, as the surname Wang is ambiguous for many, representing over 7% of the Chinese population. It also includes different Chinese surnames, 王 Wáng and 汪 Wāng. Ada learned that in Cantonese, 王 Wáng is spelled as Wong, the same as 黄 Huáng. Nine out of ten times, people call her Ms. (or Mr.) Wan instead of Wang.
 
 By the way, *wān* 弯 means “not straight” in Mandarin.
@@ -35,3 +37,5 @@ Oxford OX1 1JD
 ## Reference
 
 E’s Chinese class. (2020, December 31). *How to Pronounce/Say/Write: 鱼/魚/(fish) Chinese Vocabulary/Character/Radical* [Video]. YouTube. [https://www.youtube.com/watch?v=7jRhPaDeslA](https://www.youtube.com/watch?v=7jRhPaDeslA)
+
+</div>
