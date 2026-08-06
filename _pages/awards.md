@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /awards/
-title: Queering the Awards
+title: Queering Awards
 nav: true
 nav_order: 7
 ---
@@ -19,7 +19,7 @@ nav_order: 7
   }
 </style>
 
-<h1 class="queering-awards-title" aria-label="Queering the Awards"><span style="color: #e53935 !important;">Q</span><span style="color: #fb8c00 !important;">u</span><span style="color: #fbc02d !important;">e</span><span style="color: #43a047 !important;">e</span><span style="color: #1e88e5 !important;">r</span><span style="color: #8e24aa !important;">i</span><span style="color: #d81b60 !important;">n</span><span style="color: #00acc1 !important;">g</span> <span style="color: #e53935 !important;">t</span><span style="color: #fb8c00 !important;">h</span><span style="color: #fbc02d !important;">e</span> <span style="color: #5bcefa !important;">A</span><span style="color: #f5a9b8 !important;">w</span><span style="color: #ffffff !important; text-shadow: 0 0 1px #777;">a</span><span style="color: #f5a9b8 !important;">r</span><span style="color: #5bcefa !important;">d</span><span style="color: #f5a9b8 !important;">s</span></h1>
+<h1 class="queering-awards-title" aria-label="Queering Awards"><span style="color: #e53935 !important;">Q</span><span style="color: #fb8c00 !important;">u</span><span style="color: #fbc02d !important;">e</span><span style="color: #43a047 !important;">e</span><span style="color: #1e88e5 !important;">r</span><span style="color: #8e24aa !important;">i</span><span style="color: #d81b60 !important;">n</span><span style="color: #00acc1 !important;">g</span> <span style="color: #5bcefa !important;">A</span><span style="color: #f5a9b8 !important;">w</span><span style="color: #ffffff !important; text-shadow: 0 0 1px #777;">a</span><span style="color: #f5a9b8 !important;">r</span><span style="color: #5bcefa !important;">d</span><span style="color: #f5a9b8 !important;">s</span></h1>
 
 <p style="font-size: 1.1rem; margin-bottom: 0.75rem;"><strong style="color: var(--global-text-color) !important;">2026 Chinese Student Award, Great Britain China Educational Trust</strong></p>
 
