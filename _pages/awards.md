@@ -49,6 +49,6 @@ nav_order: 7
 <strong>Backstage 2:</strong> For various reasons, the thesis hasn’t been published yet :’(
 
 
-<span style="color: purple; font-style: italic;">@Queer art of failure</span>
+<em style="color: var(--global-text-color) !important;">@Queer art of failure</em>
 
-<span style="color: purple; font-style: italic;">@Delinkedinization</span>
+<em style="color: var(--global-text-color) !important;">@Delinkedinization</em>
