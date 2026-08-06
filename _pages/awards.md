@@ -49,6 +49,6 @@ nav_order: 7
 <strong>Backstage 2:</strong> For various reasons, the thesis hasn’t been published yet :’(
 
 
-<span style="display: inline-block; background: rgba(217, 217, 217, 0.6); padding: 0.3rem 0.55rem; border-radius: 0.35rem; margin-top: 0.4rem;"><em style="background: linear-gradient(90deg, #e53935, #fb8c00, #fbc02d, #43a047, #1e88e5, #8e24aa, #d81b60, #00acc1, #5bcefa, #f5a9b8, #ffffff, #f5a9b8, #5bcefa); -webkit-background-clip: text; background-clip: text; color: transparent !important;">@Queer art of failure</em></span>
+<em style="background: linear-gradient(90deg, #f5a9b8, #5bcefa, #f5a9b8, #5bcefa, #f5a9b8, #5bcefa); -webkit-background-clip: text; background-clip: text; color: transparent !important;">@Queer art of failure</em>
 
-<span style="display: inline-block; background: rgba(217, 217, 217, 0.6); padding: 0.3rem 0.55rem; border-radius: 0.35rem; margin-top: 0.4rem;"><em style="background: linear-gradient(90deg, #e53935, #fb8c00, #fbc02d, #43a047, #1e88e5, #8e24aa, #d81b60, #00acc1, #5bcefa, #f5a9b8, #ffffff, #f5a9b8, #5bcefa); -webkit-background-clip: text; background-clip: text; color: transparent !important;">@Delinkedinization</em></span>
+<em style="background: linear-gradient(90deg, #f5a9b8, #5bcefa, #f5a9b8, #5bcefa, #f5a9b8, #5bcefa); -webkit-background-clip: text; background-clip: text; color: transparent !important;">@Delinkedinization</em>
